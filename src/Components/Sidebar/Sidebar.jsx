@@ -25,11 +25,9 @@ function Sidebar() {
         <span className="sidebar_title">ABOUT ME</span>
         <img src={Profile} alt="profile" />
         <p className="about_me">
-          I'm Gopinath from Chennai. Goal-oriented full stack
-          developer with apassion for working on a project that solvesproblems
-          with thoughtful UI design, creating intuitive, dynamic user
-          experiences powered bya strong backend. I primarily work with the
-          MERNstack among the full-stack technologies.. Thank You...!
+          I'm Nithi from Chennai. Goal-oriented full stack
+          developer with a passion for working. I primarily work with the
+          MERN stack among the full-stack technologies.. Thank You...!
         </p>
       </div>
       <div className="sidebarItem">
