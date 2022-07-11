@@ -1,0 +1,12 @@
+.posts {
+  padding-top: 30px;
+  display: flex;
+  flex: 9;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../../image/postbg.jpg");
+  flex-wrap: wrap;
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+}
