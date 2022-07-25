@@ -1,6 +1,7 @@
 # Motorbike diaries app use post your rides in motorcyle community:
 
-# deployed Link [click here](https://epic-bassi-425708.netlify.app/)
+# deployed Link [click here](https://sparkly-valkyrie-825348.netlify.app)
 
-# Email Id - testing 
-#PWD - Test123
+# user Id - testing 
+# email - test@gmail.com
+# PWD - Test123
