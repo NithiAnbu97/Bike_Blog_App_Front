@@ -42,7 +42,7 @@ function Login() {
           ref={userRef}
         />
         <label>Password</label>
-        <input
+        <input 
           type="password"
           className="loginInput"
           placeholder="Enter your password..."
