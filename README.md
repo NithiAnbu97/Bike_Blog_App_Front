@@ -2,6 +2,6 @@
 
 # deployed Link [click here](https://sparkly-valkyrie-825348.netlify.app)
 
-# user Id - testing 
+# user Id - Testing 
 # email - test@gmail.com
 # PWD - Test123
